@@ -1,1 +1,2 @@
-# nodejs-quote-a-day-master
+# quote-a-day
+Node JS assignment-1
